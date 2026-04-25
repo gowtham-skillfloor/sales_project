@@ -7,3 +7,5 @@ This dashboard was created as part of mini-project during training at Datamites.
 
 
 This interactive dashboard contains information about sales in the United States.
+
+Edited on GitHub.
